@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GZipTest": {
+      "commandName": "Project",
+      "commandLineArgs": "compress d:\\_Films\\Отклонение.mkv d:\\_testout\\testMKV_1.arc"
+    }
+  }
+}
